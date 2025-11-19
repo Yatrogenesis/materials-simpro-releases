@@ -3,8 +3,7 @@
 Advanced computational framework for materials science simulation and industrial process optimization using finite element methods and machine learning.
 
 **🔬 Enterprise-Grade Materials Engineering Suite**
-
-> **Note**: This repository contains technical documentation and architecture only. Full source code is available under enterprise license. Contact for access.
+> **Public Documentation** - This repository contains public architecture and documentation for the enterprise Materials-SimPro platform. Full source code is available under enterprise license. Contact for licensing and access.
 
 ## 🎯 Overview
 
